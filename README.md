@@ -19,7 +19,7 @@ This repository contains MATLAB code used to model the dynamics of the spread of
 3. **Run the `Thesis.m` script** to execute the simulation. This script will automatically use the `ODEsys.m` function to perform the ODE computations and plot the results.
 4. **Inspect the `Thesis.m` script for detailed comments** explaining the initialization of parameters, the use of the ODE solver, and the plotting of results.
 
-## Understanding `ODEsys (1).m`
+## Understanding `ODEsys.m`
 
 - **Input Parameters**:
   - `t`: Current time point in the simulation.
